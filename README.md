@@ -22,8 +22,6 @@ Users should be able to:
 
 - View the optimal layout for the section depending on their device's screen size
 
-*
-
 ### Links
 
 - Solution URL: [https://github.com/pgc0004/Social-Proof-Section-Solution-using-CSS-Grid-and-Flexbox.git]
